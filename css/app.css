@@ -1,0 +1,6 @@
+#video_container{
+	width: 400px;
+	background: #ccc;
+	border: 2px solid #ddd;
+	margin:100 auto;
+}
